@@ -1,0 +1,8 @@
+{
+  "title": "Site Haritası | Çorbacı",
+  "description": "Çorbacı web sitesinin tüm sayfalarını ve menü öğelerini listeleyen site haritası.",
+  "keywords": "çorbacı site haritası",
+  "showOnFooter": true,
+  "isSiteMap": true,
+  "partials": ["article-header", "sitemap-list", "article-footer"]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c1",
+  "name": "Taze Ayak Paça Çorbası",
+  "url": "taze-ayak-paca-corbasi-750ml",
+  "images": ["taze-ayak-paca-corbasi.webp"],
+  "price": 310,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Taze Çorbalar", "url": "taze-corbalar" },
+  "shortDesc": "Taze dana ayağının kemik suyundan süzülen, soğan, sarımsak ve defne yaprağıyla saatlerce pişirilen bol kolajenli geleneksel paça çorbası",
+  "metaDesc": "Çorbacı'nın taze ayak paça çorbası. Her gün taze hazırlanan, doğal malzemelerle pişirilmiş, bol kolajenli geleneksel çorba.",
+  "keywords": "taze ayak paça çorbası, paça çorbası, geleneksel paça, çorbacı paça, taze çorba",
+  "longDesc": [
+    "Taze dana ayağı, sarımsak, soğan ve defne yaprağıyla 12 saatten uzun ağır ateşte yavaş yavaş pişirilir",
+    "Uzun pişirmeyle derinleşen kemik suyu tabanı çorbaya yoğun, kadifemsi bir kıvam ve doyurucu bir aroma kazandırır",
+    "Yalnızca et, kemik suyu ve doğal baharat kullanılır; katkı maddesi veya koruyucu içermez",
+    "Sıcak servis edilirken üzerine ezilmiş sarımsak ve sirke eklediğinizde geleneksel lezzetine tam anlamıyla kavuşur",
+    "Bol kolajen ve protein içeriğiyle hem doyurucu hem de bağışıklığı destekleyici bir öğün sunar"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "750 ml", "type": "spec" },
+    { "name": "Porsiyon", "value": "2 kişilik", "type": "spec" },
+    { "name": "Üretim", "value": "Günlük taze hazırlanır", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "8", "bestRating": "5", "worstRating": "1" }
+}

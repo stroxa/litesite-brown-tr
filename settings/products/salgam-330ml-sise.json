@@ -1,0 +1,22 @@
+{
+  "id": "i2",
+  "name": "Şalgam 330 ml",
+  "url": "salgam-330ml-sise",
+  "images": ["salgam-330ml-sise.webp"],
+  "price": 35,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "330 ml şişede sunulan geleneksel şalgam suyu.",
+  "metaDesc": "330 ml ambalajında sunulan şalgam suyu. Yemeklerin yanında tercih edilebilecek bir içecek seçeneği.",
+  "keywords": "şalgam, şalgam suyu, 330ml şalgam, içecek",
+  "longDesc": [
+    "Geleneksel yöntemlerle üretilmiş şalgam suyudur.",
+    "Ekşi ve baharatlı aromaya sahip bir içecektir.",
+    "330 ml pet şişe ambalajında sunulmaktadır.",
+  ],
+  "otherDesc": [
+    { "name": "Saklama Koşulları", "value": "Serin ve güneş almayan yerde muhafaza ediniz.", "type": "info" },
+    { "name": "Raf Ömrü", "value": "Açıldıktan sonra buzdolabında saklayınız ve 3 gün içinde tüketiniz.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

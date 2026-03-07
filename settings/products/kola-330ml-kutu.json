@@ -1,0 +1,23 @@
+{
+  "id": "i4",
+  "name": "Kola 330 ml",
+  "url": "kola-330ml-kutu",
+  "images": ["kola-330ml-kutu.webp"],
+  "price": 35,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "330 ml kutu ambalajında gazlı içecek.",
+  "metaDesc": "330 ml kutu ambalajında sunulan gazlı kola içeceği. Soğuk tüketilmesi önerilir.",
+  "keywords": "kola, 330 ml kola, gazlı içecek, kutu içecek",
+  "longDesc": [
+    "Gazlı ve kafein içeren bir içecektir.",
+    "330 ml kutu ambalajında sunulmaktadır.",
+    "Soğuk tüketilmesi önerilir.",
+    "Yemeklerin yanında tercih edilebilir."
+  ],
+  "otherDesc": [
+    { "name": "Saklama Koşulları", "value": "Serin ve güneş almayan yerde muhafaza ediniz.", "type": "info" },
+    { "name": "Alerjen / İçerik Bilgisi", "value": "Kafein içerir.", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "7", "bestRating": "5", "worstRating": "1" }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "i1",
+  "name": "Su 500 ml",
+  "url": "su",
+  "images": ["su.webp"],
+  "price": 10,
+  "weight": { "value": 500, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "500 ml plastik şişede içme suyu.",
+  "metaDesc": "500 ml plastik şişe ambalajında sunulan içme suyu.",
+  "keywords": "su, içme suyu, 500 ml su, şişe su",
+  "longDesc": [
+    "Doğal kaynak veya içme suyu olarak paketlenmiştir.",
+    "500 ml plastik şişe ambalajında sunulmaktadır.",
+    "Serin tüketilmesi tercih edilebilir."
+  ],
+  "otherDesc": [
+    { "name": "Ambalaj Tipi", "value": "Plastik şişe", "type": "spec" },
+    { "name": "Saklama Koşulları", "value": "Temiz, serin ve kokusuz ortamda muhafaza ediniz.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "9", "bestRating": "5", "worstRating": "1" }
+}
