@@ -1,0 +1,22 @@
+{
+  "id": "i7",
+  "name": "Gazoz 1 L",
+  "url": "gazoz-1l-sise",
+  "images": ["gazoz-1l-sise.webp"],
+  "price": 45,
+  "weight": { "value": 1000, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "1 litre şişe ambalajında gazlı meyve aromalı içecek.",
+  "metaDesc": "1 litre plastik şişe ambalajında sunulan meyve aromalı gazlı içecek. Soğuk tüketilmesi önerilir.",
+  "keywords": "gazoz, 1 litre gazoz, gazlı içecek, şişe gazoz",
+  "longDesc": [
+    "Gazlı ve meyve aromalı bir içecektir.",
+    "1 litre plastik şişe ambalajında sunulmaktadır.",
+    "Soğuk tüketilmesi önerilir."
+  ],
+  "otherDesc": [
+    { "name": "Ambalaj Tipi", "value": "Plastik şişe", "type": "spec" },
+    { "name": "Saklama Koşulları", "value": "Serin ve güneş almayan yerde muhafaza ediniz.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "2", "bestRating": "5", "worstRating": "1" }
+}

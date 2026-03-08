@@ -1,0 +1,24 @@
+{
+  "id": "d1",
+  "name": "Dondurulmuş Ayak Paça Çorbası",
+  "url": "dondurulmus-ayak-paca-corbasi-750ml",
+  "images": ["dondurulmus-ayak-paca-corbasi.webp"],
+  "price": 320,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Donmuş Çorbalar", "url": "dondurulmus-corbalar" },
+  "shortDesc": "Dana ayağı, sarımsak, soğan ve defne yaprağıyla 12 saat pişirilip şok dondurularak hazırlanan, her an sofranıza gelebilecek paça çorbası",
+  "metaDesc": "Çorbacı'nın dondurulmuş ayak paça çorbası. 12 saat pişirilmiş, şok dondurulmuş, katkısız ve koruyucusuz geleneksel paça.",
+  "keywords": "dondurulmuş paça çorbası, dondurulmuş ayak paça, şok dondurulmuş çorba, çorbacı dondurulmuş paça",
+  "longDesc": [
+    "Taze dana ayağı, sarımsak, soğan ve defne yaprağıyla 12 saatten uzun ağır ateşte pişirilir; yoğun ve kolajen dolu bir kemik suyu tabanı oluşur",
+    "Şok dondurma yöntemiyle hazırlandığı günkü tazeliği, aroması ve besin değerleri eksiksiz korunur",
+    "Yalnızca et, kemik suyu ve doğal baharat kullanılır; katkı maddesi veya koruyucu içermez",
+    "Buzluktan çıkarıp ısıtmanız yeterli; dakikalar içinde geleneksel paça çorbasının derin tadı sofranızda",
+    "Bol kolajen içeriğiyle bağışıklık sistemini destekleyen, doyurucu ve besleyici bir öğün sunar"
+  ],
+  "otherDesc": [
+    { "name": "Saklama Koşulları", "value": "Buzlukta 6 ay muhafaza edebilirsiniz", "type": "info" },
+    { "name": "Raf Ömrü", "value": "Çözüldükten sonra ilk pişirimde tüketmenizi tavsiye ederiz", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "9", "bestRating": "5", "worstRating": "1" }
+}

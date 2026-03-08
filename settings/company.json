@@ -1,0 +1,32 @@
+{
+  "name": "Çorbacı",
+  "legalName": "Çorbacı Gıda ve Yemek Hizmetleri",
+  "address": [
+    "Zekeriyaköy Mah. Orman Cad. No 12",
+    "Sarıyer İstanbul"
+  ],
+  "map": "#",
+  "phone": "+90 212 000 00 00",
+  "email": "siparis@corbaci.com",
+  "instagram": "#",
+  "facebook": "#",
+  "linkedin": "#",
+  "whatsapp": "+90 532 000 00 00",
+  "slogan": "Geleneksel lezzetler, asırlardır süren tecrübe.",
+  "description": "Çorbacı, geleneksel yöntemlerle hazırlanan taze paça çorbası ve içecekleri sizinle buluşturuyor.",
+
+  "currency": "TRY",
+  "currencySymbol": "₺",
+  "priceValidUntilDays": 30,
+
+  "brand": "Çorbacı",
+
+  "manufacturer": {
+    "name": "Çorbacı Gıda ve Yemek Hizmetleri",
+    "identifier": "TR34-0002",
+    "phone": "+902120000000",
+    "address": "Atatürk Caddesi No: 1",
+    "city": "İstanbul",
+    "country": "TR"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c3",
+  "name": "Taze İşkembe Çorbası",
+  "url": "taze-iskembe-corbasi-750ml",
+  "images": ["taze-iskembe-corbasi.webp"],
+  "price": 290,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Taze Çorbalar", "url": "taze-corbalar" },
+  "shortDesc": "Günlük hazırlanan taze dana işkembesi, yumurta sarısı ve sarımsaklı kremamsı sosla pişirilen geleneksel işkembe çorbası",
+  "metaDesc": "Çorbacı'nın taze işkembe çorbası. Her gün taze hazırlanan, doğal malzemelerle pişirilmiş, geleneksel lezzetinde işkembe.",
+  "keywords": "taze işkembe çorbası, işkembe, geleneksel işkembe, çorbacı işkembe, taze çorba",
+  "longDesc": [
+    "Taze dana işkembesi özenle temizlenip sarımsak, soğan ve tuz eşliğinde uzun süre haşlanarak hazırlanır",
+    "Yumurta sarısı ve limon suyu ile kıvamlandırılan sos çorbaya kremamsı ve kadifemsi bir doku kazandırır",
+    "Katkı maddesi içermez; taze işkembe, doğal baharat ve günlük hazırlanan malzemelerden oluşur",
+    "Sıcak servis edilirken üzerine kızgın tereyağı, pul biber, sarımsak ve sirke eklediğinizde derin lezzeti ortaya çıkar",
+    "Protein açısından zengin yapısıyla doyurucu; sabah saatlerinin ve soğuk günlerin vazgeçilmez geleneksel lezzetidir"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "750 ml", "type": "spec" },
+    { "name": "Porsiyon", "value": "2 kişilik", "type": "spec" },
+    { "name": "Üretim", "value": "Günlük taze hazırlanır", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "6", "bestRating": "5", "worstRating": "1" }
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Çorbacı | Geleneksel Lezzetler",
+  "description": "Çorbacı, geleneksel yöntemlerle hazırlanan taze paça çorbası, kelle paça ve içeceklerini kapınıza kadar ulaştırıyor.",
+  "keywords": "çorbacı, paça çorbası, kelle paça, taze çorba, dondurulmuş paça, geleneksel çorba",
+  "priority": 1.0,
+  "partials": ["hero:headerHero", "product-cards"]
+}

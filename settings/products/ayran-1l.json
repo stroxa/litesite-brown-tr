@@ -1,0 +1,22 @@
+{
+  "id": "i3",
+  "name": "Ayran 1 L",
+  "url": "ayran-1l",
+  "images": ["ayran-1l.webp"],
+  "price": 40,
+  "weight": { "value": 1000, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "1 litre ambalajında ayran.",
+  "metaDesc": "1 litre ambalajında sunulan ayran. Yoğurt, su ve tuz karışımından oluşan geleneksel bir içecektir.",
+  "keywords": "ayran, 1 litre ayran, içecek",
+  "longDesc": [
+    "Yoğurt, su ve tuz karışımından oluşur.",
+    "1 litre ambalajda sunulmaktadır.",
+    "Soğuk tüketilmesi önerilir."
+  ],
+  "otherDesc": [
+    { "name": "Saklama Koşulları", "value": "Buzdolabında muhafaza ediniz.", "type": "info" },
+    { "name": "Raf Ömrü", "value": "Açıldıktan sonra buzdolabında saklayınız ve 3 gün içinde tüketiniz.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "6", "bestRating": "5", "worstRating": "1" }
+}

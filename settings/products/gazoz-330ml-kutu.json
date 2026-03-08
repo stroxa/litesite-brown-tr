@@ -1,0 +1,22 @@
+{
+  "id": "i6",
+  "name": "Gazoz 330 ml",
+  "url": "gazoz-330ml-kutu",
+  "images": ["gazoz-330ml-kutu.webp"],
+  "price": 30,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "330 ml kutu ambalajında gazlı meyve aromalı içecek.",
+  "metaDesc": "330 ml alüminyum kutu ambalajında sunulan meyve aromalı gazlı içecek. Soğuk tüketilmesi önerilir.",
+  "keywords": "gazoz, 330 ml gazoz, gazlı içecek, kutu gazoz",
+  "longDesc": [
+    "Gazlı ve meyve aromalı bir içecektir.",
+    "330 ml alüminyum kutu ambalajında sunulmaktadır.",
+    "Soğuk tüketilmesi önerilir.",
+  ],
+  "otherDesc": [
+    { "name": "Ambalaj Tipi", "value": "Alüminyum kutu", "type": "spec" },
+    { "name": "Saklama Koşulları", "value": "Serin ve güneş almayan yerde muhafaza ediniz.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

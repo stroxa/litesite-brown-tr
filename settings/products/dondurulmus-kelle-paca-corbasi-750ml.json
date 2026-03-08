@@ -1,0 +1,23 @@
+{
+  "id": "d2",
+  "name": "Dondurulmuş Kelle Paça Çorbası",
+  "url": "dondurulmus-kelle-paca-corbasi-750ml",
+  "images": ["dondurulmus-kelle-paca-corbasi.webp"],
+  "price": 345,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Donmuş Çorbalar", "url": "dondurulmus-corbalar" },
+  "shortDesc": "Titizlikle ayıklanan dana kellesi ve ilikli kemik suyuyla saatlerce pişirilip şok dondurularak hazırlanan geleneksel kelle paça çorbası",
+  "metaDesc": "Çorbacı'nın dondurulmuş kelle paça çorbası. Titizlikle ayıklanmış kelle etleri ve uzun süre kaynatılmış kemik suyuyla hazırlanan, şok dondurulmuş lezzet.",
+  "keywords": "dondurulmuş kelle paça, kelle paça çorbası, şok dondurulmuş kelle, çorbacı kelle paça",
+  "longDesc": [
+    "Dana kellesi titizlikle temizlenip ayıklandıktan sonra ilikli kemik suyuyla saatlerce kısık ateşte kaynatılır",
+    "Soğan, sarımsak, defne yaprağı ve karabiber çorbaya geleneksel aromasını kazandırır",
+    "Şok dondurma yöntemiyle hem lezzetini hem de besin değerlerini ilk günkü gibi korur; katkı maddesi veya koruyucu içermez",
+    "Buzluktan çıkarıp ısıtmanız yeterli; sarımsak ve sirkeyle servis edildiğinde geleneksel kelle paça lezzeti dakikalar içinde sofranızda"
+  ],
+  "otherDesc": [
+    { "name": "Saklama Koşulları", "value": "Buzlukta 6 ay muhafaza edebilirsiniz", "type": "info" },
+    { "name": "Raf Ömrü", "value": "Çözüldükten sonra ilk pişirimde tüketmenizi tavsiye ederiz", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "i5",
+  "name": "Kola 1 L",
+  "url": "kola-1l-sise",
+  "images": ["kola-1l-sise.webp"],
+  "price": 50,
+  "weight": { "value": 1000, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "1 litre şişe ambalajında gazlı kola içeceği.",
+  "metaDesc": "1 litre plastik şişe ambalajında sunulan gazlı kola içeceği. Kafein içerir. Soğuk tüketilmesi önerilir.",
+  "keywords": "kola, 1 litre kola, gazlı içecek, şişe kola",
+  "longDesc": [
+    "Gazlı ve kafein içeren bir içecektir.",
+    "1 litre plastik şişe ambalajında sunulmaktadır.",
+    "Soğuk tüketilmesi önerilir."
+  ],
+  "otherDesc": [
+    { "name": "Ambalaj Tipi", "value": "Plastik şişe", "type": "spec" },
+    { "name": "Saklama Koşulları", "value": "Serin ve güneş almayan yerde muhafaza ediniz.", "type": "info" },
+    { "name": "İçerik Bilgisi", "value": "Kafein içerir.", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

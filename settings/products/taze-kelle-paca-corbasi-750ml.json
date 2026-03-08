@@ -1,0 +1,25 @@
+{
+  "id": "c2",
+  "name": "Taze Kelle Paça Çorbası",
+  "url": "taze-kelle-paca-corbasi-750ml",
+  "images": ["taze-kelle-paca-corbasi.webp"],
+  "price": 330,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Taze Çorbalar", "url": "taze-corbalar" },
+  "shortDesc": "Günlük ayıklanan taze dana kellesi ve ilikli kemik suyuyla saatlerce kısık ateşte pişirilen, hafızalara kazınan kelle paça çorbası",
+  "metaDesc": "Çorbacı'nın taze kelle paça çorbası. Günlük hazırlanan kelle etleri ve ilikli kemik suyuyla pişirilmiş, katkısız geleneksel lezzet.",
+  "keywords": "kelle paça çorbası, taze kelle paça, geleneksel kelle çorbası, çorbacı kelle paça",
+  "longDesc": [
+    "Dana kellesi özenle temizlenip ayıklandıktan sonra ilikli kemik suyuyla birlikte saatlerce kısık ateşte kaynatılır",
+    "Soğan, sarımsak, defne yaprağı ve karabiber çorbaya geleneksel aromasını ve derinliğini kazandırır",
+    "Yalnızca et, kemik suyu ve doğal baharattan oluşur; katkı maddesi veya koruyucu kullanılmaz",
+    "Sıcak servis edilirken üzerine sarımsak ve sirke eklediğinizde lezzeti bir kat daha artar",
+    "Yüksek protein ve kolajen değeriyle doyurucu, besleyici ve güçlendirici bir öğün sunar"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "750 ml", "type": "spec" },
+    { "name": "Porsiyon", "value": "2 kişilik", "type": "spec" },
+    { "name": "Üretim", "value": "Günlük taze hazırlanır", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}
