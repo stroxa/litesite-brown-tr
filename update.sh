@@ -271,13 +271,14 @@ init_layout() {
   local ln=$(json_val "$COMPANY_JSON" linkedin)
   local wa=$(echo "$L_PHONE" | tr -d '+ ')
   local tg=$(json_val "$COMPANY_JSON" telegram)
+  local tg_clean="${tg#@}"
 
   L_SOCIAL=""
   [ "$ig" != "#" ] && L_SOCIAL+="<a href=\"${ig}\" target=\"_blank\"><img src=\"/img/instagram.png\" alt=\"Instagram\"></a>"
   [ "$fb" != "#" ] && L_SOCIAL+="<a href=\"${fb}\" target=\"_blank\"><img src=\"/img/facebook.png\" alt=\"Facebook\"></a>"
   [ "$ln" != "#" ] && L_SOCIAL+="<a href=\"${ln}\" target=\"_blank\"><img src=\"/img/linkedin.png\" alt=\"LinkedIn\"></a>"
   [ -n "$wa" ] && L_SOCIAL+="<a href=\"https://wa.me/${wa}\" target=\"_blank\"><img src=\"/img/whatsapp.png\" alt=\"WhatsApp\"></a>"
-  [ -n "$tg" ] && L_SOCIAL+="<a href=\"https://t.me/${tg}\" target=\"_blank\"><img src=\"/img/telegram.png\" alt=\"Telegram\"></a>"
+  [ -n "$tg_clean" ] && L_SOCIAL+="<a href=\"https://t.me/${tg_clean}\" target=\"_blank\"><img src=\"/img/telegram.png\" alt=\"Telegram\"></a>"
 
   L_MNAMES=()
   L_MSHORTS=()
@@ -944,6 +945,7 @@ inject_basket_config() {
   js+=",\"currency\":\"${SITE_CURRENCY_SYMBOL}\""
   js+=",\"waNumber\":\"${wa_number}\""
   local tg_username=$(json_val "$COMPANY_JSON" telegram)
+  tg_username="${tg_username#@}"
   [ -n "$tg_username" ] && js+=",\"tgUsername\":\"${tg_username}\""
   js+=",\"productsPage\":\"${products_page}\""
 
