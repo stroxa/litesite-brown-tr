@@ -1,4 +1,3 @@
-/* ── Article wrapper ─────────────────────────── */
 article {
   padding: 2rem 0 1.5rem;
   text-align: left;
@@ -11,7 +10,6 @@ article > img {
 }
 
 article > h2 {
-  font-family: var(--font-serif);
   font-size: clamp(1.4rem, 4vw, 2rem);
   font-weight: bold;
   line-height: 1.3;
@@ -20,7 +18,6 @@ article > h2 {
 }
 
 article > h3 {
-  font-family: var(--font-serif);
   font-size: 1.2rem;
   font-weight: bold;
   line-height: 1.5;
@@ -32,7 +29,6 @@ article > h3 {
 }
 
 article > h4 {
-  font-family: var(--font-serif);
   font-size: 0.85rem;
   font-weight: bold;
   color: var(--accent2);
@@ -68,7 +64,6 @@ article a:visited {
   color: var(--accent2);
 }
 
-/* ── Contact address block ───────────────────── */
 address {
   display: flex;
   flex-direction: column;
@@ -83,7 +78,6 @@ address {
 
 address > h3 {
   margin-bottom: 0.75rem;
-  font-family: var(--font-serif);
   font-size: clamp(0.85rem, 4vw, 1.1rem);
   font-weight: bold;
   color: var(--text);
@@ -109,7 +103,6 @@ address > a {
   width: fit-content;
 }
 
-
 address img {
   width: 1.8rem;
   filter: brightness(0) sepia(1) saturate(2) hue-rotate(10deg) brightness(0.5);
@@ -121,7 +114,6 @@ address p {
   line-height: 1.5;
 }
 
-/* ── Site haritası ───────────────────────────── */
 article > h3 ~ ul {
   padding-left: 0;
 }
@@ -138,4 +130,3 @@ article > h3 ~ ul li a:visited {
   font-size: 0.95rem;
   transition: color 0.2s;
 }
-

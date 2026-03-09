@@ -3,9 +3,9 @@
   "cachePrefix": "corbaci",
   "lang": "tr",
   "langSwitch": [
-    { "label": "TR", "url": "https://corbaci.com", "lang": "tr" },
-    { "label": "EN", "url": "https://en.corbaci.com", "lang": "en" },
-    { "label": "AR", "url": "https://ar.corbaci.com", "lang": "ar" }
+    { "label": "TR", "url": "https://tr.dev.template.litesite.anatolia.solutions", "lang": "tr" },
+    { "label": "EN", "url": "https://en.dev.template.litesite.anatolia.solutions", "lang": "en" },
+    { "label": "AR", "url": "https://ar.dev.template.litesite.anatolia.solutions", "lang": "ar" }
   ],
   "rootPages": ["index", "404"],
   "pagesDir": "pages",
@@ -65,6 +65,8 @@
     "delete": "Sil",
     "unit": "Adet",
     "whatsAppOrder": "WhatsApp'tan Siparişini İlet",
-    "whatsAppGreeting": "Merhaba, sipariş vermek istiyorum:"
+    "whatsAppGreeting": "Merhaba, sipariş vermek istiyorum:",
+    "telegramOrder": "Telegram'dan Siparişini İlet",
+    "telegramGreeting": "Merhaba, sipariş vermek istiyorum:"
   }
 }
