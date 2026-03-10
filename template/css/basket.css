@@ -15,7 +15,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 6px 20px rgba(139, 94, 60, .4);
+  box-shadow: 0 6px 20px rgba(var(--accent-rgb), .4);
   transition: transform 0.2s, box-shadow 0.2s;
   border: 3px solid var(--surface2);
 }
@@ -57,7 +57,7 @@ ul.prd button.qty-ctrl,
   align-items: center;
   justify-content: center;
   gap: 0.4rem;
-  background: #cdb898;
+  background: var(--border);
   border: none;
   border-radius: 8px;
   padding: 0.25rem;
@@ -85,7 +85,7 @@ ul.prd button.qty-ctrl,
   font-size: 0.85rem;
   color: var(--text);
   white-space: nowrap;
-  background: #cdb898;
+  background: var(--border);
   padding: 0.25rem 0.45rem;
   border-radius: 4px;
 }
@@ -293,7 +293,7 @@ ul.prd button.qty-ctrl,
   font-weight: 600;
   color: var(--accent2);
   text-align: center;
-  background: rgba(139, 94, 60, .1);
+  background: rgba(var(--accent-rgb), .1);
   padding: 0.45rem 0.75rem;
   margin: 0.5rem 0;
   border-radius: var(--r-sm);

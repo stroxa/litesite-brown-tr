@@ -10,8 +10,9 @@
   --border-dark: #5a2c12;
   --white:   #fff;
   --shadow:  rgba(62,40,25,.14);
+  --accent-rgb: 139, 94, 60;
 
-  --font-sans:  system-ui, -apple-system, sans-serif;
+  --font-sans:  sans-serif;
 
   --r-sm: 6px;
   --r-md: 10px;
@@ -112,8 +113,12 @@ main > :not(.hero):not(.page-img) {
   visibility: hidden;
   width: 100%;
   padding: 0.8rem 1rem;
-  background: rgba(139, 94, 60, 0.95);
+  background: rgba(var(--accent-rgb), 0.95);
   color: var(--white);
   font-weight: bold;
   font-size: 0.9rem;
+}
+
+.off.show {
+  visibility: visible;
 }
